@@ -26,6 +26,8 @@ In addition to the Help available at the command line, the following resources p
 -   Get involved in the Windows PowerShell user community. See the [Script Center Community page](https://technet.microsoft.com/scriptcenter/hh182567.aspx) for locations of dozens of Windows PowerShell user groups – there is probably one near you. Also keep current with the community activities of the Microsoft Scripting Guy.
 
 ## Video Training
+###  YouTube lessons
+-  [![PowerShell: Introduction and Scripting Tutorial](https://i.ytimg.com/vi/XiGGb5v8yAo/maxresdefault.jpg)](https://youtu.be/XiGGb5v8yAo "Introduction and Scripting Tutorial")
 
 ###  Microsoft Virtual Academy
 -  [Getting Started with PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276)
@@ -52,4 +54,3 @@ The following resources provide resources to help developers create their own Wi
 
 -   [Windows PowerShell SDK](http://go.microsoft.com/fwlink/p/?LinkID=89595). Provides reference content.
 -   [Windows PowerShell Programmer's Guide](http://go.microsoft.com/fwlink/p/?LinkID=89596). Provides tutorials. Also contains information about fundamental Windows PowerShell concepts.
-

@@ -11,8 +11,7 @@ ms.prod:  powershell
 
 #  PowerShell Scripting
 
-<<<<<<< HEAD
-Built on the .NET Framework, Windows PowerShell® is a task-based command-line shell and scripting language designed especially for system administrators and power-users to rapidly automate the administration of the Windows operating system and applications that run on Windows.
+Built on the .NET Framework, PowerShell is a task-based command-line shell and scripting language designed especially for system administrators and power-users to rapidly automate the administration of the Windows operating system and applications that run on Windows.
 
 ## Getting started with PowerShell
 If you are new to PowerShell, we recommend reviewing the following articles to help bring you quickly up to speed:
@@ -39,14 +38,11 @@ If you are developing for PowerShell,
 - Review [what's new with PowerShell](whats-new/What-s-New-With-PowerShell.md)
 - [Install the PowerShell SDK](setup/installing-the-windows-powershell-sdk.md)
 
-
-=======
 The documentation collection is organized around 4 main sections:
 
 ##  [What's new with PowerShell](whats-new/What-s-New-With-PowerShell.md)
 In this section you'll find all announcements about the product (version by
 version and release by release).
->>>>>>> refs/remotes/origin/staging
 
 ##  [PowerShell Setup](setup/setup-reference.md)
 In this section you'll find all you need to know to install all
