@@ -19,6 +19,8 @@ In Windows PowerShell Desired State Configuration (DSC), it is possible to separ
 * Configuration logic is more reusable if it does not contain hard-coded data. This is similar to good scripting guidelines for functions.
 * If some of the data needs to change, you can make the changes in one location, thereby saving time and reducing errors.
 
+Note - To save the configuraion to a file, save it with the *.psd1 extention, not the default *.ps1 extention. 
+
 ## Basic concepts and examples
 
 To specify the environmental part of the configuration, DSC uses the **ConfigurationData** parameter, which is a hash table (or it can take a .psd1 file which contains the hash table). This hash table must have at least one key **AllNodes**, which has a structured value. For example:
